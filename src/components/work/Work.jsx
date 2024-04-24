@@ -10,7 +10,7 @@ const Work = () => {
                 <p className='py-6'>Check out some of my recent work</p>
             </div>
 
-            <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
+            <div className='grid grid-cols-2 sm:grid-cols-4 gap-4'>
                
                 <div style={{backgroundImage: `url(/todolistnew.png)`}} 
                     className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
